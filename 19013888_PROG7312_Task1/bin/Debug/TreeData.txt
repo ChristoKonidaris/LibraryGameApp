@@ -1,0 +1,110 @@
+-000 General knowledge
+#010 Bibliography
+*011 Bibliographies
+*012 Bibliographies of individuals
+*013 Bibliographies of works by specific classes of authors
+*014 Bibliographies of anonymous and pseudonymous works
+*015 Bibliographies of works from specific places
+*016 Bibliographies of works from specific subjects
+*017 General subject catalogs
+*018 Catalogs arranged by author & date
+*019 Dictionary catalogs
+-100 Philosophy & psychology
+#110 Metaphysics
+*111 Ontology
+*112 Not assigned or no longer used
+*113 Cosmology (Philosophy of nature)
+*114 Space
+*115 Time
+*116 Change
+*117 Structure
+*118 Force & Energy
+*119 Number & quantity
+-200 Religion
+#210 Natural theology
+*211 Concepts of God
+*212 Existence, attributes of God
+*213 Creation
+*214 Theodicy
+*215 Science & religion
+*216 Good & evil
+*217 Not assigned or no longer used
+*218 Humankind
+*219 Not assigned or no longer used
+-300 Social sciences
+#310 General statistics
+*311 Not assigned or no longer used
+*312 Not assigned or no longer used
+*313 Not assigned or no longer used
+*314 General statistics of Europe
+*315 General statistics of Asia
+*316 General statistics of Africa
+*317 General statistics of North America
+*318 General statistics of South America
+*319 General statistics of other parts of the world
+-400 Languages
+#410 Linguistics
+*411 Writing systems
+*412 Etymology
+*413 Dictionaries
+*414 Phonology
+*415 Structural systems (Grammar)
+*416 Not assigned or no longer used
+*417 Dialectology & historical linguistics
+*418 Standard usage Applied linguistics
+*419 Verbal language not spoken or written
+-500 Natural sciences & mathematics
+#510 Mathematic
+*511 General principles
+*512 Algebra & number theory
+*513 Arithmetic
+*514 Topology
+*515 Analysis
+*516 Geometry
+*517 Not assigned or no longer used
+*518 Not assigned or no longer used
+*519 Probabilities & applied mathematics
+-600 Technology 
+#610 Medical sciences Medicine
+*611 Human anatomy, cytology, histology
+*612 Human physiology
+*613 Promotion of health
+*614 Incidence & prevention of disease
+*615 Pharmacology & therapeutics
+*616 Diseases
+*617 Surgery & related medical specialties
+*618 Gynecology & other medical specialties
+*619 Experimental medicine
+-700 Arts and recreation
+#710 Civic & landscape art
+*711 Area planning (Civic art)
+*712 Landscape architecture
+*713 Landscape architecture of trafficways
+*714 Water features
+*715 Woody plants
+*716 Herbaceous plants
+*717 Structures
+*718 Landscape design of cemeteries
+*719 Natural landscapes
+-800 Literature
+#810 American literature in English
+*811 Poetry
+*812 Drama
+*813 Fiction
+*814 Essays
+*815 Speeches
+*816 Letters
+*817 Satire & humor
+*818 Miscellaneous writings
+*819 Not used
+-900 Geography & history
+#910 Geography & travel
+*911 Historical geography
+*912 Graphic representations of earth
+*913 Ancient world
+*914 Europe
+*915 Asia
+*916 Africa
+*917 North America
+*918 South America
+*919 Other areas

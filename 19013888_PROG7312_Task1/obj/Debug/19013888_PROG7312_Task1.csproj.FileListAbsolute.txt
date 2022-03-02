@@ -1,0 +1,24 @@
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\bin\Debug\19013888_PROG7312_Task1.exe.config
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\bin\Debug\19013888_PROG7312_Task1.exe
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\bin\Debug\19013888_PROG7312_Task1.pdb
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.csprojAssemblyReference.cache
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Home.resources
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Properties.Resources.resources
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.csproj.GenerateResource.cache
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.exe
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.pdb
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Replacing_Books.resources
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Identifying_Areas.resources
+H:\3rd Year\Module - Programming 3B\POE\Task 1\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.FindingCallNumbers.resources
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\bin\Debug\19013888_PROG7312_Task1.exe.config
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\bin\Debug\19013888_PROG7312_Task1.exe
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\bin\Debug\19013888_PROG7312_Task1.pdb
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.csprojAssemblyReference.cache
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.FindingCallNumbers.resources
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Home.resources
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Identifying_Areas.resources
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Properties.Resources.resources
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\_19013888_PROG7312_Task1.Replacing_Books.resources
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.csproj.GenerateResource.cache
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.exe
+H:\3rd Year\Module - Programming 3B\POE\POE\19013888_PROG7312_Task1\19013888_PROG7312_Task1\obj\Debug\19013888_PROG7312_Task1.pdb
