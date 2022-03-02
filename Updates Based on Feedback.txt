@@ -1,0 +1,11 @@
+Updates based on Feedback
+
+- Added more comments using intelliSense
+- I changed from using "==" while comparing strings to using "string.Equals()".
+- I renamed labels, textboxes, and comboboxes to use better naming conventions 
+  to better understand the purpose of that component.
+- Upon clicking the exit button located at the top right corner of the window 
+  the application closes and does not hang.
+
+(Unfortunately due to the layout and structure of this application it will be 
+difficult to minimize the nested loops while maintaining the functionality of the application.)
